@@ -10,6 +10,7 @@ Show the duration dynamic daily.
 
 ## Dataset
 
+Dataset is made of fake raw events data.
 Dataset includes data about 4396 purchases between 2020-11-01 and 2021-01-30.
 Purchases with _null_ for number of items in purchase are omitted as incorrect entries. 
 If same byuer makes 2 purchases per day, only first one is concidered.
