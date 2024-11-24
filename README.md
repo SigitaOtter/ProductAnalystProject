@@ -10,10 +10,10 @@ Show the duration dynamic daily.
 
 ## Dataset
 
-Dataset is made of fake raw events data.
+Dataset is made of fake raw events data. <br>
 Dataset includes data about 4396 purchases between 2020-11-01 and 2021-01-30.
 Purchases with _null_ for number of items in purchase are omitted as incorrect entries. 
-If same byuer makes 2 purchases per day, only first one is concidered.
+If same buyer makes 2 purchases per day, only first one is concidered.
 Returning customer is a customer who bought on least 2 days in the analysis period.
 Repeat purchase is a purchase made not on the first day that same buyer has bought something.
 
